@@ -4,4 +4,4 @@ description: Shrutika Dhake's profile and portfolio for Technical Communication
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://shrutikadhake.github.io/portfolio/"
 repository: just-the-docs/just-the-docs # for github-metadata
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
